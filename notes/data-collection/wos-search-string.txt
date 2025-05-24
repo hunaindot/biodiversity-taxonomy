@@ -1,0 +1,122 @@
+
+(
+  TS=(
+    biodivers* OR "biological diversity" OR
+    "species diversity" OR "species richness" OR
+    "species evenness" OR
+    "genetic diversity" OR "functional diversity" OR
+    "ecosystem diversity" OR
+    "alpha diversity" OR "beta diversity" OR "gamma diversity" OR
+    "taxonomic diversity" OR "phylogenetic diversity" OR
+    "species loss" OR "endangered species" OR "threatened species" OR
+    "protected area*"
+  )
+  OR SU=("Biodiversity & Conservation")
+)
+AND DT=("Article" OR "Review")
+AND PY=1985-2010     
+
+Dataset name = Query 24-05-2025 453pm - 1985-2010
+Documents # = 137,623
+
+------
+
+(
+  TS=(
+    biodivers* OR "biological diversity" OR
+    "species diversity" OR "species richness" OR
+    "species evenness" OR
+    "genetic diversity" OR "functional diversity" OR
+    "ecosystem diversity" OR
+    "alpha diversity" OR "beta diversity" OR "gamma diversity" OR
+    "taxonomic diversity" OR "phylogenetic diversity" OR
+    "species loss" OR "endangered species" OR "threatened species" OR
+    "protected area*"
+  )
+  OR SU=("Biodiversity & Conservation")
+)
+AND DT=("Article" OR "Review")
+AND PY=2011-2015
+
+Dataset name = Query 24-05-2025 455pm - 2011-2015
+Documents # = 105,171
+
+----
+
+
+(
+  TS=(
+    biodivers* OR "biological diversity" OR
+    "species diversity" OR "species richness" OR
+    "species evenness" OR
+    "genetic diversity" OR "functional diversity" OR
+    "ecosystem diversity" OR
+    "alpha diversity" OR "beta diversity" OR "gamma diversity" OR
+    "taxonomic diversity" OR "phylogenetic diversity" OR
+    "species loss" OR "endangered species" OR "threatened species" OR
+    "protected area*"
+  )
+  OR SU=("Biodiversity & Conservation")
+)
+AND DT=("Article" OR "Review")
+AND PY=2016-2019
+
+Dataset name = Query 24-05-2025 457pm - 2016-2019
+Documents # = 117,690
+----
+
+(
+  TS=(
+    biodivers* OR "biological diversity" OR
+    "species diversity" OR "species richness" OR
+    "species evenness" OR
+    "genetic diversity" OR "functional diversity" OR
+    "ecosystem diversity" OR
+    "alpha diversity" OR "beta diversity" OR "gamma diversity" OR
+    "taxonomic diversity" OR "phylogenetic diversity" OR
+    "species loss" OR "endangered species" OR "threatened species" OR
+    "protected area*"
+  )
+  OR SU=("Biodiversity & Conservation")
+)
+AND DT=("Article" OR "Review")
+AND PY=2020-2022
+
+Dataset name = Query 24-05-2025 459pm - 2020-2022
+Documents # = 122,328
+
+----
+
+
+(
+  TS=(
+    biodivers* OR "biological diversity" OR
+    "species diversity" OR "species richness" OR
+    "species evenness" OR
+    "genetic diversity" OR "functional diversity" OR
+    "ecosystem diversity" OR
+    "alpha diversity" OR "beta diversity" OR "gamma diversity" OR
+    "taxonomic diversity" OR "phylogenetic diversity" OR
+    "species loss" OR "endangered species" OR "threatened species" OR
+    "protected area*"
+  )
+  OR SU=("Biodiversity & Conservation")
+)
+AND DT=("Article" OR "Review")
+AND PY=2020-2022
+
+Dataset name = Query 24-05-2025 500pm - 2023-2025
+Documents # = 104,210
+
+----
+
+137,623
+105,171
+117,690
+122,328
+104,210
+
+=587,022
+
+- Aggregage 580,758 from 1985-2025
+
